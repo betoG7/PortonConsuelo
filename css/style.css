@@ -897,7 +897,7 @@ li.menu__item:nth-child(6) {
 }
 
 .w3_grid_effect {
-    padding: 2em;
+  padding: 2em;
     background: rgba(52, 74, 113, 0.09);
 }
 
@@ -1005,7 +1005,10 @@ li.menu__item:nth-child(6) {
 /* Hover styles */
 
 .cbp-ig-grid li > .w3_grid_effect:hover {
-    background: #0f2453;
+   /* Se cambio el color por naranja
+   background: #0f2453; */ 
+    background: #EE9323 ;
+    color: white;
 }
 
 .cbp-ig-grid li > .w3_grid_effect:hover .cbp-ig-icon {
@@ -1248,7 +1251,8 @@ ul.resp-tabs-list {
     font-size: 1.5em;
     color: #fff;
     padding: 0.4em 1em;
-    background: #0f2453;
+   /* background: #0f2453; */
+   background: #EE9323 ;
     font-weight: 300;
     position: absolute;
     top: 9.6em;
@@ -1591,7 +1595,8 @@ color: #fff !important;
 /*--copy-right--*/
 .copy {
     text-align: center;
-    background: #0f2453;
+    /*background: #0f2453; */
+    background: #EE9323 ;
 }
 .copy p {
     color: #fff;
@@ -1600,13 +1605,14 @@ color: #fff !important;
     padding: 1em;
 }
 .copy p a {
-    color: #ffce14;
+   /* color: #ffce14; */
     text-decoration: none;
 	transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
+    color: #0f2453;
 }
 .copy p a:hover{
 	color:#fff;
