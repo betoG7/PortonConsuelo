@@ -1265,7 +1265,7 @@ ul.resp-tabs-list {
     margin-left: 20px;
 }
 .price-selet h3 span {
-    color: #ef0404;
+    color: #0ec300;
     font-size: 31px;
     margin-right: 5px;
 }
@@ -1721,7 +1721,7 @@ color: #fff !important;
 		margin-top: 2.5em;
 	}
 	.textbox h4 {
-		font-size: 1.7em;
+		font-size: 1.1em;
 	}
 }
 @media(max-width:1080px){
@@ -1863,6 +1863,7 @@ color: #fff !important;
 	.price-gd-top h4 {
 		font-size: 1.3em;
 		top: 9.4em;
+		left: 4em;
 	}
 	.price-selet h3 {
 		font-size: 1.5em;
@@ -2054,7 +2055,8 @@ color: #fff !important;
 		margin-bottom: 2em;
 	}
 	.price-gd-top h4 {
-		top: 12.3em;
+		top: 10.3em;
+		left: 5em;
 	}
 	h3.title-w3-agileits {
 		font-size: 2.3em;
@@ -2097,7 +2099,7 @@ color: #fff !important;
 		width: 33%;
 	}
 	.textbox h4 {
-		margin-top: 4.5em;
+		margin-top: 2em;
 	}
 }
 @media(max-width:900px){
@@ -2217,7 +2219,7 @@ color: #fff !important;
 		font-size: 2.1em;
 	}
 	.textbox h4 {
-		margin-top: 4em;
+		margin-top: 3em;
 		font-size: 1.2em;
 	}
 }
@@ -2378,8 +2380,8 @@ color: #fff !important;
 		left: 48%;
 	}
 	.price-gd-top h4 {
-		top: 13.3em;
-		font-size: 1.2em;
+		top: 9.5em;
+		left: 5em;
 	}
 	.price-selet a {
 		padding: 0.3em 1.7em;
@@ -2643,7 +2645,8 @@ color: #fff !important;
 		margin: 62px 5px 20px 5px;
 	}
 	.price-gd-top h4 {
-		top: 12.8em;
+		top: 9.5em;
+		left: 5em;
 	}
 }
 @media(max-width:600px){
@@ -2698,7 +2701,8 @@ color: #fff !important;
 		margin: 96px 5px 20px 5px;
 	}
 	.price-gd-top h4 {
-		top: 11.8em;
+		top: 7.5em;
+		left: 5em;
 	}
 	.w3layouts_work_grid_left {
 		width: 80%;
@@ -2892,7 +2896,8 @@ color: #fff !important;
 		width: 61%;
 	}
 	.price-gd-top h4 {
-		top: 12.8em;
+		top: 9.8em;
+		left: 5em;
 		font-size: 1.1em;
 	}
 	.price-selet h3 {
@@ -3219,7 +3224,8 @@ color: #fff !important;
 		width: 90%;
 	}
 	.price-gd-top h4 {
-		top: 12.5em;
+		top: 9.5em;
+		left: 5em;
 		font-size: 1.05em;
 	}
 	h3.title-w3-agileits {
@@ -3255,7 +3261,7 @@ color: #fff !important;
 		width: 100%;
 	}
 	.textbox h4 {
-		margin-top: 5.5em;
+		margin-top: 1.1em;
 	}
 }
 /*--responsive--*/
